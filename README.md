@@ -1,1 +1,1 @@
-# online-adminssion-system-for-dance-academy
+# online-admission-system-for-dance-academy
